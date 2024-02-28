@@ -1,0 +1,56 @@
+export const data = {
+    "scholarships": [
+      {
+        "name": "Life Lessons Scholarship Program",
+        "amount": "$15,000",
+        "deadline": "March 1, 2024",
+        "awards_available": "40",
+        "backlink": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/number-of-scholarships-available/5-to-50-scholarships-available/life-lessons-scholarship-program",
+        "description": "A college education is already a major financial challenge for most American families, but it becomes infinitely more difficult for a student when a parent dies, leaving little or no life insurance. Recognizing the character and perseverance that so many young people show in the face of such adversity, Life Happens sponsors the annual Life Lessons Scholarship Program for college students and college-bound high school seniors. Qualified entrants who submit essays or videos about how the death of a parent impacted their lives are eligible for scholarship money. Applications are accepted each year from February 1 to March 1. Applicants can be pursuing either an undergraduate or graduate degree.",
+        "gender": "",
+        "GPA": "",
+        "SAT": "",
+        "ACT": "",
+        "age": "17-24",
+        "citizenship": "Legal residents of the fifty United States, the District of Columbia, and Puerto Rico",
+        "race": "",
+        "disability": "",
+        "character_trait": "",
+        "financial_status": "",
+        "residence": "Legal residents of the fifty United States, the District of Columbia, and Puerto Rico",
+        "school_k12": "",
+        "school_college": "Currently enrolled in or accepted to a college, university, or trade school within the fifty United States, the District of Columbia, or Puerto Rico",
+        "extracurriculars": "",
+        "organization": "Life and Health Insurance Foundation for Education (“Life Happens” or “Sponsor”), KWT Global",
+        "work_experience": "",
+        "career": ""
+      },
+      {
+        "name": "Catch A Break! Scholarship",
+        "amount": "Up to $11,000 per year",
+        "deadline": "Varies",
+        "awards_available": "15",
+        "backlink": "https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/number-of-scholarships-available/5-to-50-scholarships-available/catch-a-break-scholarship",
+        "description": "The Catch a Break!® Scholarship Program was established to assist highly motivated Minnesota residents who have faced challenges in life and learned from them, and are now enrolling for the first time in post-secondary education. Scholarships are offered for full-time study at an accredited public four-year college or university in Minnesota for the entire academic year. We have 15 new scholarships available each year. All scholarships are renewable, up to $11,000 per year, up to four years.",
+        "gender": "",
+        "GPA": "3.0",
+        "SAT": "",
+        "ACT": "24",
+        "age": "21 years or younger",
+        "citizenship": "MN Resident",
+        "race": "",
+        "disability": "",
+        "character_trait": "",
+        "financial_status": "Household income shows significant financial stress/challenges",
+        "residence": "Minnesota",
+        "school_k12": "",
+        "school_college": "",
+        "extracurriculars": "",
+        "organization": "",
+        "work_experience": "",
+        "career": ""
+      },
+      {"name":"Fukunaga Scholarship Foundation","amount":"$20,000","deadline":"February 22, 2024","awards_available":"10","backlink":"https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/academic-major/accounting/fukunaga-scholarship-foundation","description":"The Fukunaga Scholarship Foundation's scholarships are awarded to encourage high school students in the State of Hawaii who intend to have a career in business to pursue higher education at any accredited four-year college or university. College students meeting the requirements are also eligible to apply. Four-year scholarships are awarded to students just entering college in increments of $5,000 annually. Assuming that eligibility is maintained, a total of $20,000 will be awarded over four years. Students already enrolled in college will receive awards varying in amount and duration depending on individual circumstances. In order to be eligible to apply for an award from the Fukunaga Scholarship Foundation, students must have graduated from a public or private school, charter high school, accredited online school, or be on track to graduate at the end of the current academic year. Homeschooled students are also eligible. The applicant’s class standing will be considered. A cumulative grade point average (GPA) of at least 3.0 in his or her high school (and college, if applicable) career is required. U.S. citizenship is required. The applicant must be a resident of the State of Hawaii and plan to eventually return to Hawaii or the Pacific Islands region and contribute to its growth and welfare. This is renewable upon a 3.0 GPA.","gender":"","GPA":"3.0","SAT":"","ACT":"","age":"","citizenship":"U.S. citizenship","race":"","disability":"","character_trait":"","financial_status":"","residence":"State of Hawaii","school_k12":"public or private school, charter high school, accredited online school","school_college":"any accredited four-year college or university","extracurriculars":"","organization":"","work_experience":"","career":"business"}
+    ]
+  }
+  

@@ -1,0 +1,12 @@
+Scholarship: Greater St. Louis Art Association Scholarship
+categories: [act score, act scores from 16 to 20]
+ website url:https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/act-score/act-scores-from-16-to-20/greater-st-louis-art-association-scholarship
+ Extracted from website:
+page-name: Greater St. Louis Art Association Scholarship
+description: The Greater St. Louis Art Association is offering scholarships to college students in the St. Louis area who are majoring in Art. Scholarships are one-time awards up to $2500 per student. Eligible applicants must be a full or half-time college student (minimum of 6 credit hours) majoring in an art discipline, and applicants must must submit a fully completed application with six images of their recent artwork in a PowerPoint file (see website for more details). Winners are notified by March 20.
+-----Scholarship: Alfred State All-American Scholarship
+categories: [act score, act scores from 21 to 25]
+ website url:https://www.scholarships.com/financial-aid/college-scholarships/scholarship-directory/act-score/act-scores-from-21-to-25/alfred-state-all-american-scholarship
+ Extracted from website:
+page-name: Alfred State All-American Scholarship
+description: The Alfred State All-American Scholarship is offered to incoming freshmen who possess an ACT of 24 or an SAT of 1220, as well as a 3.3 GPA. Students are required to earn a cumulative 3.0 GPA each semester to maintain this scholarship. Students must live on campus and be legal US residents.
